@@ -11,7 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CMSEARCH</title>
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-<link href="assets/img/codingmahib.JPG" rel="shortcut icon"/>
+<link href="assets/img/cm.png" rel="shortcut icon"/>
 </head>
 <?php
 if(!isset($_GET['s'])){
